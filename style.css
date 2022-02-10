@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(/img/BG\ stuff.png);
+    background-image: url(img/BG\ stuff.png);
     width: auto;
     height: auto;
 }
@@ -249,7 +249,7 @@ body {
 
 .item__info { 
     position: relative;
-    background-image: url(/img/bg1.png), none;
+    background-image: url(img/bg1.png), none;
     width: 223px;
     height: 157px;
     padding-top: 100px;
@@ -278,11 +278,11 @@ body {
 }
 
 .item__info:nth-child(2) {
-    background-image: url(/img/bg2.png), none;
+    background-image: url(img/bg2.png), none;
 }
 
 .item__info:nth-child(3) {
-    background-image: url(/img/bg3.png), none;
+    background-image: url(img/bg3.png), none;
 }
 
 .form__ttile {
